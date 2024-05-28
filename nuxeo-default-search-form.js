@@ -13,4 +13,3 @@ Polymer({
         );
       },
     });
-//# sourceURL=http://localhost:8080/nuxeo/ui//search/default/nuxeo-default-search-form.html.js
